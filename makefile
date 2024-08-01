@@ -1,0 +1,3 @@
+init:
+	source init.sh
+	
